@@ -8,3 +8,7 @@ Topics:
 - Sorting
 - Strings
 - Linked Lists
+- InsertionSort
+- MergeSort
+-QuickSort
+
